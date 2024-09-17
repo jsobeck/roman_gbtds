@@ -1,1 +1,1 @@
-# roman_gbtds
+# Roman Space Telescope GBTDS: Potential GC Observations
